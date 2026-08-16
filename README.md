@@ -21,7 +21,7 @@ to mobile apps with real-world impact.
 - 🐍 I work mainly with **Python** and **Kotlin**
 - 🧠 I enjoy **advanced algorithms** and applying them to real problems
 - 📱 I build **Android** applications and networked apps
-- 🔭 Currently building **LocalChat**, a local-network real-time chat app
+- 🔭 Currently building **LocalChat** | 🔒 in development
 - 🌾 I love multidisciplinary projects: **agrotech** (AWAQ-AGROMO), **genetics** (GenoLab), **real-time communication** (LocalChat)
 - 🎓 I believe in continuous learning and shipping consistently
 
