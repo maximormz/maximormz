@@ -38,9 +38,8 @@ to mobile apps with real-world impact.
 
 | Project | What is it? | Stack |
 |:---|:---|:---|
-| [**GenoLab**](https://github.com/maximormz/GenoLab) | Advanced algorithms applied to a genetics lab problem situation | `Python` |
 | [**AWAQ-AGROMO**](https://github.com/atenasarita/AWAQ-AGROMO) | Agrotech solution built with Kotlin | `Kotlin` |
-| [**LocalChat**](https://github.com/maximormz/LocalChat) | 🔒 in development | `Kotlin` |
+| [**Lynki**](https://github.com/maximormz/LocalChat) | 🔒 in development | `Kotlin` |
 
 ---
 
