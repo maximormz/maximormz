@@ -20,8 +20,8 @@ to mobile apps with real-world impact.
 
 - 🐍 I work mainly with **Python** and **Kotlin**
 - 📱 I build **Android** applications and networked apps
-- 🔭 Currently building **Lynki** | 🔒 in development
-- 🌾 I love multidisciplinary projects: **agrotech** (AWAQ-AGROMO), **real-time AI consumption** (Lynki)
+- 🔭 Currently building **Lynki** and **HomeStash** | 🔒 in development
+- 🌾 I love multidisciplinary projects: **agrotech** (AWAQ-AGROMO)
 - 🎓 I believe in continuous learning and shipping consistently
 
 ---
