@@ -40,6 +40,7 @@ to mobile apps with real-world impact.
 |:---|:---|:---|
 | [**AWAQ-AGROMO**](https://github.com/atenasarita/AWAQ-AGROMO) | Agrotech solution built with Kotlin | `Kotlin` |
 | [**Lynki**](https://github.com/maximormz/LocalChat) | 🔒 in development | `Kotlin` |
+| [**MedStash**](https://github.com/maximormz/MedStash) | 🔒 in development | `Kotlin` |
 
 ---
 
